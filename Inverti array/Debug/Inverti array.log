@@ -1,0 +1,4 @@
+﻿  inverti_array.c
+C:\Users\pluca\Desktop\Esercizi info2\Inverti array\inverti_array.c(54,23): warning C4047: 'function': 'size_t' differs in levels of indirection from 'void *'
+C:\Users\pluca\Desktop\Esercizi info2\Inverti array\inverti_array.c(54,19): warning C4024: 'InvertiArray': different types for formal and actual parameter 2
+  Inverti array.vcxproj -> C:\Users\pluca\Desktop\Esercizi info2\Inverti array\Debug\Inverti array.exe
