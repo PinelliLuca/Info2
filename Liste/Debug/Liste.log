@@ -1,0 +1,5 @@
+﻿  diffnorep.c
+C:\Users\pluca\Desktop\Esercizi info2\Liste\diffnorep.c(5,12): warning C4090: 'return': different 'const' qualifiers
+C:\Users\pluca\Desktop\Esercizi info2\Liste\diffnorep.c(7,12): warning C4090: 'return': different 'const' qualifiers
+C:\Users\pluca\Desktop\Esercizi info2\Liste\diffnorep.c(10): warning C4715: 'DiffNoRep': not all control paths return a value
+  Liste.vcxproj -> C:\Users\pluca\Desktop\Esercizi info2\Liste\Debug\Liste.exe
